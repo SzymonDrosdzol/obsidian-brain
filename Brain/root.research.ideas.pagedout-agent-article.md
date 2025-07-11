@@ -49,8 +49,8 @@ def edit_file(
 
 tools = [list_files, read_file, edit_file]
 
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyB4LV_t_Qac6seigALCopyE99cylcGKiO0"
+os.environ["OPENAI_API_KEY"] = ""
+os.environ["GOOGLE_API_KEY"] = ""
 model = init_chat_model("gemini-2.5-flash", model_provider="google_genai")
 model = model.bind_tools(tools)
 system_message  = """"

@@ -95,5 +95,5 @@ while True:
 ```
 
 ## TODO
-- [ ] Discuss with Luca a research day to write an article
-- [ ] Write the damn article
+- [ ] #todo Discuss with Luca a research day to write an article
+- [ ] #Research  Write the damn article

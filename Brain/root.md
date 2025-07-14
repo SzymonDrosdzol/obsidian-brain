@@ -8,3 +8,4 @@ Even messier that the original.
 
 - [[root.inbox]] - A place for dumping quick thoughts, to be sorted, or rejected later
 - [[root.research]] - A place for my research info, notes and ideas
+- [[root.hacking]] - Hacking wiki

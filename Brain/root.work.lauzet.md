@@ -1,0 +1,1 @@
+Lauze is a long running project with pretty intricate and time consuming to figure out tooling. So some notes might make sense to be made here.

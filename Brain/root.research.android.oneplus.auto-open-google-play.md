@@ -2,7 +2,7 @@
 
 ## com.oplus.games.ExternalJumpActivity
 
-**TL;DR** I found ways to open arbitrary packages in Google Play. Also pingback to an arbitrary HTTP service is possible, but it can only be used to cirle back to Google Play. I don’t really see any way forward here. Good effort though.
+**TL;DR** I found ways to open arbitrary packages in Google Play. Also pingback to an arbitrary HTTP service is possible, but it can only be used to circle back to Google Play. I don’t really see any way forward here. Good effort though.
 
 ```xml
 <activity android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" android:name="com.oplus.games.ExternalJumpActivity" android:exported="true" android:screenOrientation="portrait">
@@ -15,7 +15,7 @@
 </activity>
 ```
 
-  This activity allows to ope arbitrary apps in Google Play. It seems by design and I don’t see any impact in this behavior itself. Even if there isn’t a possibility to just do it directly with Google Play intents (or https links), best one can do is social engineering I guess.
+  This activity allows to open arbitrary apps in Google Play. It seems by design and I don’t see any impact in this behavior itself. Even if there isn’t a possibility to just do it directly with Google Play intents (or https links), best one can do is social engineering I guess.
 
 Working payload to open Google Play for arbitrary app
 

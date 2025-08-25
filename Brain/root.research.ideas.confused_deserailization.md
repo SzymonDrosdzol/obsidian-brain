@@ -2,7 +2,7 @@
 # Description
 Marco #Slaviero describes an interesting polyglot in PagedOut! #6: Confused Deserailization. The idea is, he created a MessagePack/Pickle polyglot file. Which is interesting, because MessagePack is deemed safe to deserialize untrusted input, as opposed to Pickle.
 
-The idea would be to search for other, similar polyglot files. It would need to start with finding interesting format pairs, esxpecially ones safe/unsafe for deserialization. And then trying to find polyglots
+The idea would be to search for other, similar polyglot files. It would need to start with finding interesting format pairs, esfpecially ones safe/unsafe for deserialization. And then trying to find polyglots
 # Research flaws
 - Not many chances of success
 - Time consuming
